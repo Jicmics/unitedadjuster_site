@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "THERE IS MORE TO YOUR CLAIM THAN YOU OR YOUR INSURANCE COMPANY MAY SEE."
+subtitle: No matter how complex, we can help you from start to finish.
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: CONNECTICUT'S FINEST PUBLIC INSURANCE ADJUSTERS
+    text: "A full-service public insurance adjusting company helping people make the most of their insurance policy benefits. United Adjusters features respectful, dignified adjusters who are well-known in their industry and community as fair, trustworthy and knowledgeable. We do not work for insurance companies. We only work for people such as you who have suffered property damage."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
